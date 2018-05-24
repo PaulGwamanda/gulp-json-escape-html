@@ -5,6 +5,10 @@ var htmlToJson = require('../index.js');
 var log = require('fancy-log');
 
 /**
+ * @TODO: Add JSON Escape
+ */
+
+/**
  * COMPILE AS JSON
  * Template Group filename would be the default filename
  * @return Json file
