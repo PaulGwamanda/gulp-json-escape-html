@@ -137,3 +137,7 @@ Third sample will look into all html content inside the directory and output it 
     "file2" : "<div>your html content 2</div>"
 }
 ```
+
+```
+Note: Code has been modified for my purposes from version of this plugin which can be found here: https://github.com/johnturingan/gulp-html-to-json
+```
